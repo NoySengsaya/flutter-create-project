@@ -1,0 +1,11 @@
+auto_route_generator
+build_runner
+dependency_validator
+flutter_gen_runner
+freezed
+import_sorter
+json_serializable
+logger
+mocktail
+very_good_analysis
+very_good_performance

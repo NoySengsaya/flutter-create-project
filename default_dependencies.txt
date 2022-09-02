@@ -1,0 +1,5 @@
+auto_route
+flutter_riverpod
+meta
+json_annotation
+flutter_dotenv
