@@ -1,8 +1,8 @@
 # Flutter-create
 
-This script required python3
+**This script required python3**
 
-Flutter create application python script
+**Flutter create application python script**
 
 ```bash
 chmod a+x flutter-create.py
